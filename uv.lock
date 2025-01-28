@@ -2,6 +2,6 @@ version = 1
 requires-python = ">=3.9.11"
 
 [[package]]
-name = "langgraph-agent-demo"
+name = "devcontainer-template"
 version = "0.1.0"
 source = { virtual = "." }
