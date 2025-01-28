@@ -1,0 +1,7 @@
+[project]
+name = "devcontainer-template"
+version = "0.1.0"
+description = "Template for VSCode devcontainer"
+readme = "README.md"
+requires-python = ">=3.9.11"
+dependencies = []
